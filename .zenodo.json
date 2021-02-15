@@ -1,13 +1,15 @@
 {
-    "description": "{Description goes here}.", 
-    "title": "Robert's Farm of Ideas: {running-number-of-idea} -- {running-title-of-idea}", 
+    "description": " Thermodynamics can present itself as kinetic inhibition.", 
+    "title": "Robert's Farm of Ideas: 2 -- falsely assumed inhibition due to thermodynamics", 
     "license": {
         "id": "CC-BY-4.0"
     }, 
-    "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/{running-number-of-idea}", 
+    "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/2", 
     "keywords": [
-        "{keyword1}",
-        "{keyword2}"
+        "thermodynamics",
+        "inhibition constant",
+        "enzymology",
+        "kinetic inhibition"
     ],
     "creators": [
     {
