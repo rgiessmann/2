@@ -14,6 +14,11 @@ Take this for example: If you want to characterize a reaction
 
 you determine K_M for substrate "A", while keeping the concentration of ZH high enough ("saturated"). However, if ZH is NADH, you want to keep it low because it's pricy. Let's assume you take ZH = 2 mM. If you now determine the "inhibition effect" of AH or Z, you might add a lot of it. At some point, you will move the equilibrium to the left by the massive amounts of AH or Z, which could even look like negative velocity. 
 
+## Sounds great, but...
+You are interested in this topic? But the idea is gibberish and incomplete, or non-sense? Well, you're probably right! 
+
+All of this is work in progress -- I would be very happy if you get in touch so we can improve this!
+
 ## How to Use
 You are free to use this idea in whatever way you like. I put this material under CC-BY license, just to make it legally clear, but: "Gedanken sind frei" (ideas are free) -- I don't expect them to be protectable anyway.
 
